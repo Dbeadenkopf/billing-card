@@ -8,9 +8,12 @@ Pre-requirements:
 
 How to run:
 cd my-billing-app
-cd src
 npm start
 .. app should be running
+
+AI Usage: 
+  Almost all of the AI I utlized for this project was to correct or confirm my assumptions. 
+  AI utilize was chatgpt and Github auto piolet. 
 
 
 My Approuch:
